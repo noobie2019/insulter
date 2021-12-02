@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"name": "insulter",
+	"repository": "https://github.com/noobie2019/insulter",
+	"author": "sharky <noobie2019@listingslab.com>",
+	"license": "MIT",
+	"scripts": {
+		"_insulter": "echo",
+		"dev": "$PWD/unix/dev",
+		"deploy": "$PWD/unix/deploy",
+		"test": "$PWD/unix/test",
+		"git": "$PWD/unix/git"
+	}
+}

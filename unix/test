@@ -1,0 +1,6 @@
+#!/bin/bash
+# chmod ug+x test
+yarn
+echo 'Testing...'
+cd ./react 
+yarn test
