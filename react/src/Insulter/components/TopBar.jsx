@@ -76,9 +76,8 @@ export default function TopBar( props ) {
                   color={ `inherit` }
                   onClick={ ( e ) => {
                     e.preventDefault()
-                    window.open(`https://github.com/noobie2019/swearmachine`, `_blank`)
+                    window.open(`https://github.com/noobie2019/insulter`, `_blank`)
                   }}>
-                  
                   <Icon icon={`github`} color={ `inherit` } />
                 </IconButton>
 
