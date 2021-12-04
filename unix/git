@@ -4,6 +4,6 @@ echo 'Commit and push to Git...'
 git status
 git add .
 git status
-git commit -m '2.0.0'
+git commit -m '2.0.1'
 git status
 git push
